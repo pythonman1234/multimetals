@@ -1,0 +1,65 @@
+export const grades = [
+  {
+    id: 1,
+    name: "90/10 Copper-Nickel",
+    copper: 89,
+    nickel: 10,
+    iron: 1,
+  },
+  {
+    id: 2,
+    name: "70/30 Copper-Nickel",
+    copper: 69,
+    nickel: 30,
+    iron: 1,
+  },
+  {
+    id: 3,
+    name: "Admiralty Brass",
+    copper: 70,
+    zinc: 29,
+    tin: 1,
+  },
+  {
+    id: 4,
+    name: "Aluminium Brass",
+    copper: 76,
+    zinc: 22,
+    aluminium: 2,
+  },
+  {
+    id: 5,
+    name: "95/5 Copper-Nickel",
+    copper: 95,
+    nickel: 5,
+  },
+  {
+    id: 6,
+    name: "DHP Copper",
+    copper: 99,
+  },
+  {
+    id: 7,
+    name: "DLP Copper",
+    copper: 99,
+  },
+  {
+    id: 8,
+    name: "Nickel-Aluminium Bronze",
+    copper: 80,
+    nickel: 5,
+    aluminium: 9,
+  },
+  {
+    id: 9,
+    name: "Naval Brass",
+    copper: 60,
+    zinc: 39,
+    tin: 1,
+  },
+  {
+    id: 10,
+    name: "ETP Copper",
+    copper: 99,
+  },
+];
